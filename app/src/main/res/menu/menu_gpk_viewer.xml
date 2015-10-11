@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".GpkViewerActivity">
+    <item
+        android:id="@+id/action_addVectorGpkg"
+        android:title="@string/action_addVectorGpkg"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_addRasterGpkg"
+        android:title="@string/action_addRasterGpkg"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_layers"
+        android:title="@string/action_layers"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GPKG Viewer</string>
+    <string name="action_layers">Layers</string>
+    <string name="action_addVectorGpkg">Add Vector GPKG</string>
+    <string name="action_addRasterGpkg">Add Raster GPKG</string>
+    <string name="layers_dialog_title">Layers</string>
+    <string name="zoom_to">Zoom To</string>
+    <string name="spatial_reference_not_set">Spatial reference undefined</string>
+    <string name="default_shapefile_name">continent</string>
+    <string name="choose_sr">Choose a Spatial Reference</string>
+    <string name="wgs_1984_label">WGS 1984</string>
+    <string name="web_mercator_label">Web Mercator</string>
+    <string name="empty_directory">Empty Directory</string>
+    <string name="storage_removed">Storage was removed or unmounted.</string>
+    <string name="choose_file">Select a file</string>
+    <string name="error_selecting_file">Error selecting File</string>
+    <string name="internal_storage">Internal storage</string>
+</resources>
